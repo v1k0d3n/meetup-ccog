@@ -36,6 +36,10 @@ Taking this into consideration, here are some details on the slide presentation 
 * Overview of the Orchestration Stack Workflow
 * Looking at the Container Support Stack
 
+We will discuss a general Kubernetes HA Deployment, like the one pictured below:
+
+![Kubernetes HA Deployment Architecture](https://github.com/v1k0d3n/meetup-ccog/blob/master/001/Kubernetes-HA-Deployment.png)
+
 ##### Walk-through Material:
 The walk-through will show a Terraform Deployment of a Kubernetes Stack in Openstack, and deep-dive into the Kubernetes architecture, with a focus on the networking/firewall aspects of the hosts/containers.
 
