@@ -29,8 +29,8 @@ Taking this into consideration, here are some details on the slide presentation 
 * Docker Popularity (in Production)
 * Light Overview on How to Create Containers
 * Container Networking and Security Considerations
-** Deeper Look at Docker Networking
-** Understanding the Impacts and Predictive Control Points
+ * Deeper Look at Docker Networking
+ * Understanding the Impacts and Predictive Control Points
 * The Orchestration Stack (key elements that make up the stack)
 * How Containers are used in Production
 * Overview of the Orchestration Stack Workflow
