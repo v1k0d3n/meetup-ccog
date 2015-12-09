@@ -1,6 +1,6 @@
 # Initial Meetup Kickoff
 
-I want to thank everyone for attending the our kickoff meeting. I would like to formally change the name to CCOG (Charlotte Container Orchestration Group), which will allow us to talk about the various container orchestration platforms; Docker Swarm, Kubernetes and Mesos to a few. Eventually, I will be inviting vendors to discuss their solutions to the general group. One of our first vendors liked up is Docker, who will speak about their upcoming Universal Control Plane (formally Orca).
+I want to thank everyone for attending the our kickoff meeting. I would like to formally change the name to CCOG (Charlotte Container Orchestration Group), which will allow us to talk about the various container orchestration platforms; Docker Swarm, Kubernetes and Mesos to name a few. Eventually, I will be inviting vendors to discuss their solutions to the general group. One of our first vendors liked up is Docker, who will speak about their upcoming Universal Control Plane (formally Orca).
 
 # Meetup Format
 
