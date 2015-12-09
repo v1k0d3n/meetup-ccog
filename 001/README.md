@@ -5,7 +5,7 @@ I want to thank everyone for attending the our kickoff meeting. I would like to 
 # Meetup Format
 
 The format for the meetups will be simple:
-Each meeting will be roughly one hour. The first 20-30 minutes will be presentation-based. The remainder of the time will be dedicated towards leader-lead walkthroughs. My goal is to have everyone walking away with code, a POC, demonstration, trial (from a vendor) or some other tangible take-away from the class. Additionally, I would like the "leader-lead" sessions to be informative, but not too complex. If it can be coded easily for the rest of the group, that would be great!
+Each meeting will be roughly one hour. The first 20-30 minutes will be presentation-based. The remainder of the time will be dedicated towards leader-lead walkthroughs. My goal is to have everyone walking away with code, a POC, demonstration, trial (from a vendor) or some other tangible take-away from the Meetup. Additionally, I would like the "leader-lead" sessions to be informative, but not too complex. If it can be coded easily for the rest of the group, that would be great!
 
 Please bring questions! Some of the material is high level. Some information could be repeated from other presentations; that's perfectly fine. I would like to strengthen our Charlotte community, and I think this is a great way to get everyone on the same level quickly (referring to the tangible walk-throughs)
 
