@@ -1,5 +1,8 @@
 # Slide Notes:
 
+## Slidedeck Location/Link:
+[http://jinkit.slides.com/v1k0d3n/meetup-ccog-001](http://jinkit.slides.com/v1k0d3n/meetup-ccog-001)
+
 ### A few sample Docker container to run during the presentation:
 **Ghost (showing volume mounts):**
 ```
